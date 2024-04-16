@@ -1,0 +1,14 @@
+# Erweiterung
+
+Öffnen Sie Einstellungen->System->Plugins. Klicken Sie recht auf die 3 Punkte neben dem Plugin "Warenkorb Upload pro Bestellung" und öffnen Sie die Konfiguration.
+
+<figure><img src="../../../.gitbook/assets/ywWGB6UW4Yaeu1-NgEl8lUmzxr7MQyanoA.png" alt=""><figcaption></figcaption></figure>
+
+Nachfolgend können Sie die Einstellungen entweder für alle oder einzelne Verkaufskanäle definieren.
+
+| Feld                                              | Beschreibung                                                                                                                                                                                                                                                                                                                                                       |
+| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <p>Erlaubte Dateitypen</p><p><br></p><p><br></p>  | <p>Hinterlegen Sie hier die erlaubten Dateitypen. Beachten Sie die korrekte Definition.</p><p>Bsp.: 'gif','png','jpg'</p><p><br></p>                                                                                                                                                                                                                               |
+| <p>Maximale Dateigröße in MB<br><br></p>          | <p>Definieren Sie hier die maximale Dateigröße in MB.</p><p>Es müssen 2 Werte in Ihrer php.ini angepasst werden: post_max_size / upload_max_filesize. Diese 2 Werte müssen der hier definierten maximalen Dateigröße entsprechen.</p><p>Falls Sie nicht wissen wo Sie ihre php.ini finden, dann beauftragen Sie bitte Ihren aktuellen Hoster damit.</p><p><br></p> |
+| <p>Maximaler Upload pro Bestellung</p><p><br></p> | Definieren Sie hier die maximale Dateianzahl pro Bestellung.                                                                                                                                                                                                                                                                                                       |
+| Debug                                             | Dies sollte im Livebetrieb deaktiviert sein.                                                                                                                                                                                                                                                                                                                       |
