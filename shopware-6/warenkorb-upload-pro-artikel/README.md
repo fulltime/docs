@@ -22,3 +22,8 @@ Mit dem Plugin "Warenkorb Upload pro Artikel" können Sie Ihrem Shopware-Shop di
 ### Demo
 
 {% embed url="https://demoshop.fulltime-ecommerce.de/Demo-Warenkorb-Upload-pro-Artikel/SWDEMO10001" %}
+
+{% embed url="https://demoshop.fulltime-ecommerce.de/admin#/login/" %}
+Name: demo \
+Passwort: shopware
+{% endembed %}
