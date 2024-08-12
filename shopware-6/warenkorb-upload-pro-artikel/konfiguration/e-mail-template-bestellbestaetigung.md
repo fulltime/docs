@@ -22,7 +22,7 @@ Fügen Sie an gewünschter Stelle aber innerhalb von der for Schleife für die i
         Übertragene Daten<br/>
         <ul>
         {% for upload in lineItem.extensions.uploads %}
-            <li><a href="{{ url('frontend.home.page') }}uploads/final/{{ upload.qquuid }}/{{ upload.filename }}" class="cart-item-label" target="_blank">{{ upload.filename }}</a></li>
+            <li><a href="{{ url('frontend.home.page') }}uploads/final/{{ upload.qquuid }}/{{ upload.fileName }}" class="cart-item-label" target="_blank">{{ upload.fileName }}</a></li>
         {% endfor %}
         </ul>
     </td>
@@ -119,7 +119,7 @@ You may use this link to edit your order, change the payment method or make addi
                 Übertragene Daten<br/>
                 <ul>
                 {% for upload in lineItem.extensions.uploads %}
-                    <li><a href="{{ url('frontend.home.page') }}uploads/final/{{ upload.qquuid }}/{{ upload.filename }}" class="cart-item-label" target="_blank">{{ upload.filename }}</a></li>
+                    <li><a href="{{ url('frontend.home.page') }}uploads/final/{{ upload.qquuid }}/{{ upload.fileName }}" class="cart-item-label" target="_blank">{{ upload.fileName }}</a></li>
                 {% endfor %}
                 </ul>
             </td>
