@@ -33,7 +33,8 @@
     * [E-Mail-Template "Bestellbestätigung"](shopware-6/warenkorb-upload-pro-bestellung/konfiguration/e-mail-template-bestellbestaetigung.md)
   * [Aktivierung pro Verkaufskanal](shopware-6/warenkorb-upload-pro-bestellung/aktivierung-pro-verkaufskanal.md)
   * [Daten herunterladen](shopware-6/warenkorb-upload-pro-bestellung/daten-herunterladen.md)
-  * [Changelogs](shopware-6/warenkorb-upload-pro-bestellung/changelogs.md)
+  * [Changelogs](shopware-6/warenkorb-upload-pro-bestellung/changelogs/README.md)
+    * [Version 1.3.0](shopware-6/warenkorb-upload-pro-bestellung/changelogs/version-1.3.0.md)
 
 ## Shopware 5
 
