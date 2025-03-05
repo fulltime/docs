@@ -1,6 +1,6 @@
 # Version 1.3.0
 
-In dieser Version wurde ein neuer file uploader integriert. Ich habe mich dabei für den Uppy uploader entschieden.
+In dieser Version wurde ein neuer file uploader integriert. Ich habe mich dabei für den [Uppy](https://uppy.io/) uploader entschieden.
 
 Es wurde zunächst der Core und das Dashboard integriert. Neu ist der Image-Editor und die Thumbnail-Generierung.
 
