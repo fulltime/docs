@@ -15,6 +15,7 @@
   * [FAQs nahtlos in die Sitemap einbinden](shopware-6/faq-manager/faqs-nahtlos-in-die-sitemap-einbinden.md)
   * [Indexierung der FAQ Seite](shopware-6/faq-manager/indexierung-der-faq-seite.md)
   * [Changelog](shopware-6/faq-manager/changelog.md)
+  * [Sales Channel Auswahl für FAQ-Seiten (Version 2.2.0+)](shopware-6/faq-manager/sales-channel-auswahl-fur-faq-seiten-version-2.2.0+.md)
 * [Warenkorb Upload pro Artikel](shopware-6/warenkorb-upload-pro-artikel/README.md)
   * [Konfiguration](shopware-6/warenkorb-upload-pro-artikel/konfiguration/README.md)
     * [Erweiterung](shopware-6/warenkorb-upload-pro-artikel/konfiguration/erweiterung.md)
